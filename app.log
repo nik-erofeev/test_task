@@ -1,0 +1,10 @@
+2023-12-01 09:02:25,318 - crud.crud - INFO - Task with ID 44 updated successfully: 44 - 4
+2023-12-01 09:02:29,281 - crud.crud - INFO - Task with ID 44 updated successfully: 44 - 4
+2023-12-01 09:02:40,746 - crud.crud - INFO - Task with ID 44 deleted successfully
+2023-12-01 09:02:56,592 - crud.crud - INFO - Task created successfully: Title - 131, Description - 13
+2023-12-01 10:25:03,493 - crud.crud - INFO - Task created successfully: Title - string, Description - string
+2023-12-01 10:25:57,249 - crud.crud - INFO - Task created successfully: Title - 51, Description - 51
+2023-12-01 10:26:28,282 - crud.crud - INFO - Task with ID 52 updated successfully: 22 - 2
+2023-12-01 10:27:01,077 - crud.crud - INFO - Task with ID 52 deleted successfully
+2023-12-01 10:58:25,726 - crud.crud - INFO - Task with ID 53 deleted successfully
+2023-12-01 10:58:25,802 - watchfiles.main - INFO - 3 changes detected
